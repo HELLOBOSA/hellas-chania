@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://heraklion.hellasreform.gr/sitemap.xml
