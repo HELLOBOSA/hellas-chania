@@ -25,16 +25,16 @@ Brand: Hellas Reform (one-word wordmark: Hellasreform). This site is Hellas Refo
 
 - [Home](https://chania.hellasreform.gr/): Services, process, gallery and contact form
 - [Blog](https://chania.hellasreform.gr/blog/): Renovation guides and articles for Chania
-- [Cities / Πόλεις](https://chania.hellasreform.gr/cities/): Service areas
-- [Partners / Συνεργάτες](https://chania.hellasreform.gr/partners/): Collaborating professionals
+- [Cities / Πόλεις](https://hellasreform.gr/cities/): Service areas
+- [Partners / Συνεργάτες](https://hellasreform.gr/partners/): Collaborating professionals
 
 ## Blog Articles
 
 - [Άδεια Ανακαίνισης Χανιά: Πλήρης Οδηγός](https://chania.hellasreform.gr/blog/adeia-anakainisis-chania/): When you need a small-scale works permit or building permit for renovation in Chania and Crete, and what documents are required.
-- [Ανακαίνιση Airbnb Κρήτη: Κανόνες & Κόστος 2026](https://chania.hellasreform.gr/blog/anakainisi-airbnb-crete/): Airbnb property renovation in Crete: 2026 regulations, fire safety, energy certificates, upgrade costs and practical tips.
+- [Ανακαίνιση Airbnb Χανιά: Κανόνες & Κόστος 2026](https://chania.hellasreform.gr/blog/anakainisi-airbnb-chania/): Airbnb property renovation in Chania: 2026 regulations, fire safety, energy certificates, upgrade costs and practical tips.
 - [Ανακαίνιση Διαμερίσματος Χανιά 2026](https://chania.hellasreform.gr/blog/anakainisi-diamerismatos-chania/): Apartment renovation in Chania: building regulations, permitted work hours, permits, insurance and what to know before starting.
 - [Ανακαίνιση Επαγγελματικού Χώρου Χανιά 2026](https://chania.hellasreform.gr/blog/anakainisi-epaggelmatikou-xorou-chania/): Commercial space renovation in Chania, offices, shops, restaurants and clinics: cost per sqm, permits and accessibility, timelines and how to renovate with minimal downtime.
-- [Ανακαίνιση Κουζίνας Κρήτη: Τιμές 2026](https://chania.hellasreform.gr/blog/anakainisi-kouzinas-crete/): Kitchen renovation prices in Crete 2026: material options, ergonomic design, appliances and custom-built solutions.
+- [Ανακαίνιση Κουζίνας Χανιά: Τιμές 2026](https://chania.hellasreform.gr/blog/anakainisi-kouzinas-chania/): Kitchen renovation prices in Chania 2026: material options, ergonomic design, appliances and custom-built solutions.
 - [Ανακαίνιση Μπάνιου Χανιά: Κόστος 2026](https://chania.hellasreform.gr/blog/anakainisi-mpaniou-chania/): Bathroom renovation costs in Chania 2026: waterproofing, timeline, trade coordination and tips for getting accurate quotes.
 - [Ανακαίνιση Νεοκλασικού Χανιά: Οδηγός 2026](https://chania.hellasreform.gr/blog/anakainisi-neoklasiki-katoikia/): Guide to renovating a neoclassical home in Chania while preserving architectural features, approvals and modern upgrades.
 - [Ανακαινίζω Νοικιάζω 2026: Οδηγός Επιδότησης](https://chania.hellasreform.gr/blog/anakainizo-noikiazo-2026/): Anakainizo-Noikiazo 2026 subsidy guide: up to 40% funding for rental property renovation in Chania, eligibility and application steps.
@@ -43,3 +43,5 @@ Brand: Hellas Reform (one-word wordmark: Hellasreform). This site is Hellas Refo
 - [Έξυπνο Σπίτι & Ανακαίνιση Χανιά: Οδηγός 2026](https://chania.hellasreform.gr/blog/exypno-spiti-anakainisi/): Smart home guide for Chania renovations: lighting, heating, shading, security and networking integration.
 - [Κόστος Ανακαίνισης Χανιά 2026: Τιμές ανά τ.μ.](https://chania.hellasreform.gr/blog/kostos-anakainisis-chania-2026/): Renovation costs in Chania 2026: price per sqm, trade costs, materials and hidden expenses. Complete pricing guide.
 - [Ολική Ανακαίνιση Χανιά: Κόστος & Διαδικασία](https://chania.hellasreform.gr/blog/oliki-anakainisi-chania/): Full renovation guide for Chania: cost per sqm, work sequence, timeline and project management.
+- [Ανακαίνιση Πέτρινου Σπιτιού στην Κρήτη: Κόστος, Άδειες & Στατικά](https://chania.hellasreform.gr/blog/anakainisi-petrino-spiti-kriti/): Structural checks, damp control, permits in traditional settlements and realistic cost per sqm for stone and traditional houses around Chania and across Crete.
+- [Παλιό Σπίτι στην Κρήτη για Ανακαίνιση: Τι να Ελέγξετε Πριν Αγοράσετε](https://chania.hellasreform.gr/blog/palio-spiti-anakainisi-kriti/): A pre-purchase checklist for buying and renovating an old or village house around Chania: structure, legality, hidden costs and renovate-or-rebuild.
